@@ -18,7 +18,7 @@ Hands-on Kubernetes labs covering core administration, workloads, networking, co
 
 | 02 | Deployments and ReplicaSets | Completed |
 
-| 03 | Services | Planned |
+| 03 | Services | Completed |
 
 | 04 | ConfigMaps and Secrets | Planned |
 
